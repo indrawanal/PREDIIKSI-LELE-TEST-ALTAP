@@ -32,7 +32,7 @@ Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan 
 ## Idea Background
 
 ### 1. Theme
-Tema : Cuaca dan Iklim
+Tema : Agraria kami mengambil aquaculture
 
 ### 2. Problem yang ditimbulkan
 - Manajemen pakan pada tambak lele yang tidak terukur
