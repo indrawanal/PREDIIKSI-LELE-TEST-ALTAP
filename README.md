@@ -61,17 +61,19 @@ Data NTPi (Nilai Tukar Petani ikan) dari BPS.
 Menunjukkan indeks harga yang harus dibayar dan yang diterima
        oleh petani, memberikan gambaran daya beli petani.
 
-Jenis Budidaya Pembesaran,Provinsi,Kabupaten/Kota,Jenis Ikan,Tahun,Volume Produksi,Nilai Produksi
-KOLAM AIR TENANG,JAWA BARAT,BANDUNG,LELE,2019,"5,372,785 "," Rp85,964,560,000 "
-KOLAM AIR TENANG,JAWA BARAT,BANDUNG BARAT,LELE,2019,"1,328,082 "," Rp19,921,230,000 "
-KOLAM AIR TENANG,JAWA BARAT,BEKASI,LELE,2019,"2,019,121 "," Rp34,325,057,000 "
-KOLAM AIR TENANG,JAWA BARAT,BOGOR,LELE,2019,"89,814,340 "," Rp1,526,843,780,000 "
-KOLAM AIR TENANG,JAWA BARAT,CIAMIS,LELE,2019,"18,162,827 "," Rp236,116,751,000 "
-KOLAM AIR TENANG,JAWA BARAT,CIANJUR,LELE,2019,"14,124,120 "," Rp225,985,920,000 "
-KOLAM AIR TENANG,JAWA BARAT,CIREBON,LELE,2019,"9,987,423 "," Rp199,748,460,000 "
-KOLAM AIR TENANG,JAWA BARAT,GARUT,LELE,2019,"3,162,167 "," Rp53,756,839,000 "
-KOLAM AIR TENANG,JAWA BARAT,INDRAMAYU,LELE,2019,"70,666,948 "," Rp1,060,004,220,000 "
-KOLAM AIR TENANG,JAWA BARAT,KARAWANG,LELE,2019,"759,058 "," Rp9,108,696,000 "
+| Jenis Budidaya Pembesaran | Provinsi  | Kabupaten/Kota | Jenis Ikan | Tahun | Volume Produksi | Nilai Produksi         |
+|---------------------------|-----------|-----------------|------------|-------|------------------|------------------------|
+| KOLAM AIR TENANG          | JAWA BARAT | BANDUNG         | LELE       | 2019  | 5,372,785        | Rp85,964,560,000       |
+| KOLAM AIR TENANG          | JAWA BARAT | BANDUNG BARAT   | LELE       | 2019  | 1,328,082        | Rp19,921,230,000       |
+| KOLAM AIR TENANG          | JAWA BARAT | BEKASI          | LELE       | 2019  | 2,019,121        | Rp34,325,057,000       |
+| KOLAM AIR TENANG          | JAWA BARAT | BOGOR           | LELE       | 2019  | 89,814,340       | Rp1,526,843,780,000    |
+| KOLAM AIR TENANG          | JAWA BARAT | CIAMIS          | LELE       | 2019  | 18,162,827       | Rp236,116,751,000     |
+| KOLAM AIR TENANG          | JAWA BARAT | CIANJUR         | LELE       | 2019  | 14,124,120       | Rp225,985,920,000     |
+| KOLAM AIR TENANG          | JAWA BARAT | CIREBON         | LELE       | 2019  | 9,987,423        | Rp199,748,460,000     |
+| KOLAM AIR TENANG          | JAWA BARAT | GARUT           | LELE       | 2019  | 3,162,167        | Rp53,756,839,000      |
+| KOLAM AIR TENANG          | JAWA BARAT | INDRAMAYU       | LELE       | 2019  | 70,666,948       | Rp1,060,004,220,000   |
+| KOLAM AIR TENANG          | JAWA BARAT | KARAWANG        | LELE       | 2019  | 759,058          | Rp9,108,696,000       |
+| KOLAM AIR TENANG          | JAWA BARAT | KOTA BANDUNG    | LELE       | 2019  | 51,015           | Rp867,255,000         |
 
 
 Poin soal dataset boleh ditambahkan sesuai kebutuhan.
