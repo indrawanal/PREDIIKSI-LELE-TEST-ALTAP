@@ -34,11 +34,17 @@ Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan 
 ### 1. Theme
 Tema : Cuaca dan Iklim
 
-### 2. Problem
-Masalah : Prediksi Cuaca yang tidak akurat
+### 2. Problem yang ditimbulkan
+- Manajemen pakan pada tambak lele yang tidak terukur
+- Pengelolaan air di tambak lele yang tidak optimal
+- Menurunnya produktivitas yang bisa menyebabkan kerugian
 
 ### 3. Solution
-Solusi : Membuat model Machine Learning yang dapat memprediksi cuaca dengan akurat. Ketiga poin ini bisa dibuat agak panjang dibandingkan contoh ini.
+Membuat prediksi harga lele menggunakan AI, chatbot interaktif, dan website untuk membantu petambak lele dalam:
+
+Mengoptimalkan manajemen pakan dengan panduan yang lebih terukur.
+Memantau dan mengelola kualitas air secara efisien.
+Meningkatkan produktivitas melalui prediksi harga yang akurat dan pengambilan keputusan yang lebih cepat.
 
 ## Dataset and Algorithm
 
